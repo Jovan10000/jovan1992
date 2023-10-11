@@ -9,3 +9,5 @@ console.log(typeof booolean)
 console.log(typeof number)
 console.log(typeof undefined)
 console.log(typeof nulll)
+
+console.log(0 && 1)
