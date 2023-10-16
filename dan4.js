@@ -33,3 +33,29 @@ var a = 50
  d -= 60
 
  console.log(b,c,d)
+
+ var a = '1';
+
+var result = 'number';
+
+switch (a) {
+
+case 1:
+
+result = 'Number 1';
+
+break;
+
+case '1':
+
+result = 'String 1';
+
+break;
+
+default:
+
+result = 'I don\'t know';
+
+break;
+
+}
