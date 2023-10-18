@@ -14,5 +14,7 @@ for (var i = 1; i < 6)  {
 
 }
 
-console.log(sum,product
-    )
+
+var array =  [1, "bbb", 6, 'jjj']
+
+for ()
